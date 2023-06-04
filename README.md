@@ -1,6 +1,7 @@
 # Text Cleaner
 
 Are you tired of copying text from PDF files only to find that it's riddled with unnecessary new lines? Look no further than Text Cleaner, a simple Windows app built with tkinter(Tk GUI toolkit). With just a few clicks, Text Cleaner can remove those pesky new lines and leave you with clean, easy-to-read text.
+(This code has been written with the help of chatGPT)
 
 ## Features
 
