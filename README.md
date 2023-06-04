@@ -10,7 +10,7 @@ Are you tired of copying text from PDF files only to find that it's riddled with
 
 ## How to Use
 
-1. Download `TextCleaner_Ashi.exe` from the [latest release](link-to-release).
+1. Download `TextCleaner_Ashi.exe` from the [latest release](https://github.com/bioinfmatters/text-cleaner/releases/tag/v1.2).
 2. Open the software.
 3. Copy the initial text you want from a PDF file into the clipboard.
 4. Click on the "Clean" button in the Text Cleaner app.
