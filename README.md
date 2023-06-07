@@ -18,7 +18,7 @@ Are you tired of copying text from PDF files only to find that it's riddled with
 5. Paste the cleaned output wherever you need it (e.g. in Google Translate).
 
 ## Contributing
-
-If you find a bug or have a feature suggestion, please feel free to [open an issue](link-to-issue) or [submit a pull request](link-to-pull-request).
+Here is the [source code](https://github.com/bioinfmatters/text-cleaner/blob/main/source.py) of the project. 
+If you find a bug or have a feature suggestion, please feel free to [open an issue](https://github.com/bioinfmatters/text-cleaner/issues) or [submit a pull request](https://github.com/bioinfmatters/text-cleaner/pulls).
 
 We hope that Text Cleaner can make your life a little bit easier when working with PDF files. Enjoy!
